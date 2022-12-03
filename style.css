@@ -33,7 +33,7 @@ body {
 }
 
 .container .box:hover {
-  background: rgba(2, 172, 45, 0.973);
+  background: #e91e63;
 }
 
 .container .box:nth-child(1) {
